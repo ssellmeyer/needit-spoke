@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD2d9398050bfa9110267f1bce2b92f85d</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>9e28840d977a91103b2cb0efe153afef</scope_name>
+        <serialized_content>{"FlowDesigner:FD2d9398050bfa9110267f1bce2b92f85d":{"code":"Integer","code.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Integer\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"integer\",\"default_value\":\"\",\"label\":\"Code\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"40\"}"},"message":"String","message.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Message\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"4000\"}"}},"FlowDesigner:FD2d9398050bfa9110267f1bce2b92f85d.$type_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"label\":\"Action Status\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"uiUniqueId\":\"afe16098-4693-4c7a-b5f4-edc949072b85\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FD2d9398050bfa9110267f1bce2b92f85d\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"object\",\"order\":\"2\",\"max_length\":\"65000\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>susan.sellmeyer</sys_created_by>
+        <sys_created_on>2022-10-25 12:46:23</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ed93980597fa91103b2cb0efe153af5d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FD2d9398050bfa9110267f1bce2b92f85d</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt Spoke" source="x_793767_needit_sp">9e28840d977a91103b2cb0efe153afef</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">9e28840d977a91103b2cb0efe153afef</sys_scope>
+        <sys_update_name>sys_complex_object_ed93980597fa91103b2cb0efe153af5d</sys_update_name>
+        <sys_updated_by>susan.sellmeyer</sys_updated_by>
+        <sys_updated_on>2022-10-25 12:46:23</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>
